@@ -27,3 +27,5 @@ References
 5.https://towardsdatascience.com/hyperparameters-optimization-526348bb8e2d(By Pier Paolo Ippolito )
 
 6.https://scikit-optimize.github.io/stable/auto_examples/hyperparameter-optimization.html
+
+Kaggle discussion- https://www.kaggle.com/pavansanagapati/automated-hyperparameter-tuning
